@@ -1,4 +1,4 @@
-n = int(input("Insira um número: "))
+n = int(input("Quantos primos? "))
 contador = 0
 numero = 2
 
