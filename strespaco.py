@@ -1,3 +1,5 @@
+#1. escreva um algoritmo que conte a quantidade de espaços em branco de uma  string fornecida pelo usuario
+
 espaco = ' '
 nome = input("Escreva algo! ")
 contador = 0
