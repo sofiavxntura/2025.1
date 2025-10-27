@@ -1,3 +1,4 @@
+# com sorted
 lista = []
 parar = ''
 cont = 0
